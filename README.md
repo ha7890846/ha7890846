@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm HABIB SHAH from Great-India.! 👋
 
-Welcome to my GitHub profile! I'm a passionate [your role] from [your location] with a keen interest in [your interests]. Here you'll find a glimpse of my work, projects, and contributions in the world of [your field].
+Welcome to my GitHub profile! I'm a coding Enthusiast from India with a keen interest in Data-Structure. Here you'll find a glimpse of my work, projects, and contributions in the world.
 
 ## About Me
-- 🌱 Currently learning [mention what you're learning or interested in].
+- 🌱 Currently skill up in DSA to build .
 - 💼 [Briefly describe your current role or occupation].
 - 🎓 Graduated in [your field] from [your university/college].
 - 📚 Love to read books, travel, and explore new technologies.
