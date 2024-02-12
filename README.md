@@ -4,16 +4,16 @@ Welcome to my GitHub profile! I'm a coding Enthusiast from India with a keen int
 
 ## About Me
 - 🌱 Currently skill up in DSA to build .
-- 💼 [I am a Full time Student.].
-- 🎓 Graduated in 2024 in stream of [B.tech Computer Science] from [Dr.APJ Abdul Kalam Technical University].
+- 💼 I am a Full time Student.
+- 🎓 Graduated in 2024 in stream of " B.tech Computer Science " from " Dr.APJ Abdul Kalam Technical University ".
 - 📚 Love to read books, travel, and explore new technologies.
 
 ## Skills
-- 💻 Programming Languages: [C++, Python, JavaScript, Java, HTML/CSS ].
-- 🛠️ Technologies: [AWS, Cloud Tech., Artificial Intelligence, Data Science].
+- 💻 Programming Languages: C++, Python, JavaScript, Java, HTML/CSS .
+- 🛠️ Technologies: AWS, Cloud Tech., Artificial Intelligence, Data Science.
 - 🌐 Web Development: [HTML/CSS, JavaScript, MySQL].
-- 📊 Data Science & Analytics: [Include skills related to data analysis, machine learning, etc.].
-- 📱 Mobile Development: [Not yet Explored ].
+- 📊 Data Science & Analytics: Include skills related to data analysis, machine learning, etc.
+- 📱 Mobile Development: Not yet Explored .
 
 ## Projects
 Here are some of my notable projects:
@@ -53,9 +53,9 @@ Feel free to reach out to me via [e-mail](mailto:habib.shah2023@outlook.com) or 
 - Notable Contributions
 
 ## Personal Touch
-- Fun Fact: [Coding is Easy :)].
-- Hobbies: [Emmersed Technology, Exploring the World ].
-- Quote: [Either Raise Your Status OR Stop Dreaming.].
+- Fun Fact:    Coding is Easy :)
+- Hobbies:    Emmersed Technology, Exploring the World.
+- Quote:     Either Raise Your Status OR Stop Dreaming.
 
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities.
 
