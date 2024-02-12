@@ -22,15 +22,19 @@ Here are some of my notable projects:
 3. [Project Name](link): Brief description of the project.
 
 ## Work Experience
-- **[Company Name](link)** (Role): Brief description of responsibilities and achievements.
-- **[Company Name](link)** (Role): Brief description of responsibilities and achievements.
-
+- **[VVDN Technologies Pvt Ltd](https://www.linkedin.com/company/vvdn-technologies/)** (IT Support):* Provided timely and effective technical support to end-users, addressing hardware, software, and network issues.
+* Diagnosed and resolved technical problems via phone, email, or remote assistance tools.
+ * Assisted in the setup and configuration of desktops, laptops, and printers for new employees.
+ * Collaborated with the IT team to deploy software updates and patches to ensure system security and stability.
+* Managed user accounts and access rights in Active Directory, ensuring proper permissions and security protocols.
+* Conducted regular system backups and verified data integrity to prevent data loss.
+* Assisted in the maintenance and troubleshooting of local network infrastructure.
+* Documented technical issues and resolutions to create a knowledge base for future reference.
+* Participated in IT team meetings to discuss ongoing projects and suggest process improvements. 
 ## Education
-- **[University/College Name](link)**: Degree obtained, major/minor, graduation year.
-- **[University/College Name](link)**: Degree obtained, major/minor, graduation year.
-
+- **[Dr.APJ Abdul Kalam Technical Uni.](https://en.wikipedia.org/wiki/Dr._A.P.J._Abdul_Kalam_Technical_University)**: Pursuing B.Tech Degree, Computer Science, graduation year 2024.
 ## Contact Me
-Feel free to reach out to me via [email](mailto:your.email@example.com) or connect on [LinkedIn](your LinkedIn profile URL).
+Feel free to reach out to me via [email](mailto:habib.shah2023@outlook.com) or connect on [LinkedIn](https://www.linkedin.com/in/habib2023/).
 
 ## Badges
 [![GitHub Followers](https://img.shields.io/github/followers/your_username?style=social)](https://github.com/your_username)
