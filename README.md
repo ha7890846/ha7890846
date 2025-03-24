@@ -43,8 +43,8 @@ Here are some of my notable projects:
 Feel free to reach out to me via [e-mail](mailto:habib.shah2023@outlook.com) or connect on [LinkedIn Page](https://www.linkedin.com/in/habib2023/).
 
 ## Badges
-[![GitHub Followers](https://img.shields.io/github/followers/your_username?style=social)](https://github.com/ha7890846)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/)
+[![GitHub Followers](https://img.shields.io/github/followers/ha7890846?style=social)](https://github.com/ha7890846)
+[![Twitter Follow](https://img.shields.io/twitter/follow/habib2023?style=social)](https://twitter.com/)
 
 ## Contributions
 - GitHub Stats
