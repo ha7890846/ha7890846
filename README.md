@@ -56,6 +56,7 @@ Feel free to reach out to me via [e-mail](mailto:habib.shah2023@outlook.com) or 
 - Fun Fact:    Coding is Easy :)
 - Hobbies:    Emmersed Technology, Exploring the World.
 - Quote:     Either Raise Your Status OR Stop Dreaming.
-
+- Bonus Tip:  “Master one tech stack fully and build solid projects with it.”
+That makes you more job-ready than learning 3 languages halfway.
 Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities.
 
