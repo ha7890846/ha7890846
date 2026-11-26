@@ -1,93 +1,61 @@
-<h1 align="center">Hi, I'm Habib Shah 👋</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs</h3>
+<h1 align="center">Habib Shah</h1>
+
+<p align="center"><strong>Java Backend Developer · Spring Boot · REST APIs</strong></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/habib2023/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:habib.shah2023@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ha7890846?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/habib2023/">LinkedIn</a> ·
+  <a href="mailto:habib.shah2023@outlook.com">Email</a> ·
+  <a href="https://dev-habibshah.netlify.app/">Portfolio</a>
 </p>
 
-I'm a 2024 Computer Science & Engineering graduate from Dr. A.P.J. Abdul Kalam Technical University, India, focused on building reliable backend applications with Java and Spring Boot. I enjoy turning ideas into working REST APIs, connecting applications to databases, and sharpening my problem-solving skills through DSA.
+About me
 
-🚀 What I'm working on
+I'm a Computer Science & Engineering graduate (2024) from Dr. A.P.J. Abdul Kalam Technical University, India, focused on Java backend development. I build REST APIs with Spring Boot, work with relational databases, and practice data structures and algorithms to strengthen my problem-solving skills.
 
-🔧 Building and improving Java / Spring Boot backend projects.
+Currently learning more about Spring Security, JPA, and backend testing.
 
-🧠 Practicing data structures and algorithms in Java.
+Open to entry-level Java Backend Developer / Software Developer opportunities.
 
-📚 Deepening my understanding of Spring Security, JPA/Hibernate, testing, and API design.
+Tech stack
 
-🤝 Open to entry-level Java Backend Developer and Software Developer opportunities.
+Backend: Java Spring Boot Spring Data JPA Hibernate REST APIs
+Databases: PostgreSQL MySQL MongoDB
+Frontend: React JavaScript TypeScript HTML/CSS
+Tools: Git GitHub Maven Postman Swagger/OpenAPI
 
-🛠️ Tech stack
-
-Backend: Java · Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven
-Databases: PostgreSQL · MySQL · MongoDB
-Frontend: JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS
-Tools: Git · GitHub · Postman · Swagger / OpenAPI · Docker (learning)
-
-📌 Featured projects
-
-Project
-
-What it does
-
-Stack / Links
+Selected projects
 
 GitHub Repository Searcher API
+Java · Spring Boot · Spring Data JPA · REST API
 
-Search GitHub repositories, sort results, validate requests, and persist repository data. Includes API documentation and automated tests.
+Built an API to search GitHub repositories, sort results, and persist repository information.
 
-Java, Spring Boot, JPA, REST APIs · Live API · Swagger UI
+Implemented request validation, error handling, automated tests, and Swagger documentation.
 
-JobFinder — Job Portal
+Live API · API Docs
 
-A job-portal project for exploring job-related workflows and backend development.
+JobFinder
+Job portal project
 
-Source code
+Developed a job-portal application to practice application workflows and backend development.
+
+View repository
 
 DSA with C++
+Data structures · Algorithms · Problem solving
 
-Earlier problem-solving practice and data-structure implementations.
+A collection of data-structure implementations and coding practice from my earlier learning journey.
 
-Source code
+Experience
 
-Mental Fitness Tracker
+IT Support Engineer — VVDN Technologies
+Supported end users with hardware, software, device setup, and basic network troubleshooting.
 
-Explores mental-health-related datasets using regression-based analysis.
-
-Source code
-
-💼 Experience & education
-
-IT Support Engineer — VVDN Technologies: End-user support, device setup, troubleshooting, account access, and network-related assistance.
-
-B.Tech, Computer Science & Engineering — Dr. A.P.J. Abdul Kalam Technical University (2024).
-
-📊 GitHub activity
+GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha7890846&show_icons=true&theme=github_dark&hide_border=true" alt="Habib's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha7890846&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most-used languages in public repositories" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ha7890846&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha7890846&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most-used repository languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ha7890846&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ha7890846&style=flat-square&color=0A66C2" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ha7890846?style=flat-square&label=Followers&color=0A66C2" alt="GitHub followers" />
-</p>
-
-📫 Let's connect
-
-I'm interested in backend engineering, meaningful projects, and collaborating with other developers.
-
-LinkedIn
-
-Email
-
-Portfolio
-
-<p align="center"><i>Keep learning. Build consistently. Improve with every project.</i></p>
+<p align="center">Interested in collaborating or discussing a role? <a href="mailto:habib.shah2023@outlook.com">Let's connect.</a></p>
