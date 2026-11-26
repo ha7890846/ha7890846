@@ -1,62 +1,93 @@
-# Hi there, I'm HABIB SHAH from Great-India.! 👋
+<h1 align="center">Hi, I'm Habib Shah 👋</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs</h3>
 
-Welcome to my GitHub profile! I'm a coding Enthusiast from India with a keen interest in Data-Structure. Here you'll find a glimpse of my work, projects, and contributions in the world.
+<p align="center">
+  <a href="https://www.linkedin.com/in/habib2023/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:habib.shah2023@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ha7890846?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-## About Me
-- 🌱 Currently skill up in DSA to build .
-- 💼 I am a Full time Student.
-- 🎓 Graduated in 2024 in stream of " B.tech Computer Science " from " Dr.APJ Abdul Kalam Technical University ".
-- 📚 Love to read books, travel, and explore new technologies.
+I'm a 2024 Computer Science & Engineering graduate from Dr. A.P.J. Abdul Kalam Technical University, India, focused on building reliable backend applications with Java and Spring Boot. I enjoy turning ideas into working REST APIs, connecting applications to databases, and sharpening my problem-solving skills through DSA.
 
-## Skills
-- 💻 Programming Languages: C++, Python, JavaScript, Java, HTML/CSS .
-- 🛠️ Technologies: AWS, Cloud Tech., Artificial Intelligence, Data Science.
-- 🌐 Web Development: [HTML/CSS, JavaScript, MySQL].
-- 📊 Data Science & Analytics: Include skills related to data analysis, machine learning, etc.
-- 📱 Mobile Development: Not yet Explored .
+🚀 What I'm working on
 
-## Projects
-Here are some of my notable projects:
-1. [Portfolio Website](https://dev-habibshah.netlify.app/):
-- Personal Portfolio Website, Crafted with full of "HTML/Css & JavaScript".
-3. [Mental Fitness Tracker](https://github.com/ha7890846/mental_fitness_tracker):
-- The Mental Health Fitness Tracker project focuses on analyzing and predicting mental fitness levels of individuals from various countries with different mental disorders. It utilizes regression techniques to provide insights into mental health and make predictions based on the available data..
-4. [DSA with CPP](https://github.com/ha7890846/DSA_with_Cpp):
-  - Explored DSA from Scratch .
-  - Problem Solving Techniques.
-  - Leetcode Problem.
+🔧 Building and improving Java / Spring Boot backend projects.
 
-## Work Experience
-- **[VVDN Technologies Pvt Ltd](https://www.linkedin.com/company/vvdn-technologies/)** ( IT Support Engg ):
-* Provided timely and effective technical support to end-users, addressing hardware, software, and network issues.
-* Diagnosed and resolved technical problems via phone, email, or remote assistance tools.
-* Assisted in the setup and configuration of desktops, laptops, and printers for new employees.
-* Collaborated with the IT team to deploy software updates and patches to ensure system security and stability.
-* Managed user accounts and access rights in Active Directory, ensuring proper permissions and security protocols.
-* Conducted regular system backups and verified data integrity to prevent data loss.
-* Assisted in the maintenance and troubleshooting of local network infrastructure.
-* Documented technical issues and resolutions to create a knowledge base for future reference.
-* Participated in IT team meetings to discuss ongoing projects and suggest process improvements. 
-## Education
-- **[Dr.APJ Abdul Kalam Technical Uni.](https://en.wikipedia.org/wiki/Dr._A.P.J._Abdul_Kalam_Technical_University)**: Pursuing B.Tech Degree, Computer Science, graduation year 2024.
-## Contact Me
-Feel free to reach out to me via [e-mail](mailto:habib.shah2023@outlook.com) or connect on [LinkedIn Page](https://www.linkedin.com/in/habib2023/).
+🧠 Practicing data structures and algorithms in Java.
 
-## Badges
-[![GitHub Followers](https://img.shields.io/github/followers/ha7890846?style=social)](https://github.com/ha7890846)
-[![Twitter Follow](https://img.shields.io/twitter/follow/habib2023?style=social)](https://twitter.com/)
+📚 Deepening my understanding of Spring Security, JPA/Hibernate, testing, and API design.
 
-## Contributions
-- GitHub Stats
-- Streak Stats
-- Contributions Graph
-- Notable Contributions
+🤝 Open to entry-level Java Backend Developer and Software Developer opportunities.
 
-## Personal Touch
-- Fun Fact:    Coding is Easy :)
-- Hobbies:    Emmersed Technology, Exploring the World.
-- Quote:     Either Raise Your Status OR Stop Dreaming.
-- Bonus Tip( Realized after wasting 1yr ):  Master one tech stack fully and build solid projects with it. That makes you more job-ready than learning 3 languages halfway.
+🛠️ Tech stack
 
-Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities.
+Backend: Java · Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven
+Databases: PostgreSQL · MySQL · MongoDB
+Frontend: JavaScript · TypeScript · React · HTML · CSS · Tailwind CSS
+Tools: Git · GitHub · Postman · Swagger / OpenAPI · Docker (learning)
 
+📌 Featured projects
+
+Project
+
+What it does
+
+Stack / Links
+
+GitHub Repository Searcher API
+
+Search GitHub repositories, sort results, validate requests, and persist repository data. Includes API documentation and automated tests.
+
+Java, Spring Boot, JPA, REST APIs · Live API · Swagger UI
+
+JobFinder — Job Portal
+
+A job-portal project for exploring job-related workflows and backend development.
+
+Source code
+
+DSA with C++
+
+Earlier problem-solving practice and data-structure implementations.
+
+Source code
+
+Mental Fitness Tracker
+
+Explores mental-health-related datasets using regression-based analysis.
+
+Source code
+
+💼 Experience & education
+
+IT Support Engineer — VVDN Technologies: End-user support, device setup, troubleshooting, account access, and network-related assistance.
+
+B.Tech, Computer Science & Engineering — Dr. A.P.J. Abdul Kalam Technical University (2024).
+
+📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ha7890846&show_icons=true&theme=github_dark&hide_border=true" alt="Habib's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha7890846&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most-used languages in public repositories" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ha7890846&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ha7890846&style=flat-square&color=0A66C2" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ha7890846?style=flat-square&label=Followers&color=0A66C2" alt="GitHub followers" />
+</p>
+
+📫 Let's connect
+
+I'm interested in backend engineering, meaningful projects, and collaborating with other developers.
+
+LinkedIn
+
+Email
+
+Portfolio
+
+<p align="center"><i>Keep learning. Build consistently. Improve with every project.</i></p>
